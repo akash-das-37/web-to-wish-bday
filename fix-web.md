@@ -22,6 +22,6 @@ You can update the long personalized birthday message on this exact line:
 ---
 
 ## 3. Change the Photos
-To add your own pictures, it is highly recommended to place your new image files inside the `images/` folder. Then, go to the exact lines below in `index.html` and change the `src="..."` link to point to your new file name:
+To add your own pictures, it is highly recommended to place your new image files inside the `images/` folder. Then, go to the exact lines below in `index.html` and change the `src="..."` link to point to your new file name
 
 *   delete the current unnamed.png from images and add your image to that exact same folder but keep the same name :unnamed.png  
